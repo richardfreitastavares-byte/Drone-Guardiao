@@ -99,9 +99,9 @@ var audioCtx = null;
 // ======================================
 var perguntas = [
   {
-    pergunta: "Qual atitude economiza agua?",
+    pergunta: "Qual atitude economiza água?",
     a: "Desperdicar",
-    b: "Irrigacao consciente",
+    b: "Irrigaçao consciente",
     correta: "b"
   },
   {
@@ -113,13 +113,13 @@ var perguntas = [
   {
     pergunta: "Qual energia e sustentavel?",
     a: "Energia solar",
-    b: "Poluicao",
+    b: "Poluiçao",
     correta: "a"
   },
   {
     pergunta: "O que devemos proteger?",
     a: "Os rios",
-    b: "A fumaca",
+    b: "A fumaça",
     correta: "a"
   },
   {
@@ -137,12 +137,12 @@ var perguntas = [
   {
     pergunta: "O que devemos economizar?",
     a: "Agua",
-    b: "Poluicao",
+    b: "Poluiçao",
     correta: "a"
   },
   {
     pergunta: "Qual pratica ajuda o solo?",
-    a: "Preservar vegetacao",
+    a: "Preservar vegetaçao",
     b: "Jogar lixo",
     correta: "a"
   },
